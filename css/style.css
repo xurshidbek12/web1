@@ -47,10 +47,7 @@ background-attachment: fixed;
     background-color: var(--dark);
 
 }
-/* .navigation{
-    display: flex;
-    justify-content: space-between;
-} */
+
 .navigation .logo h1{
     color: #fff;
     text-transform: capitalize;
